@@ -1,0 +1,11 @@
+.Half{
+   background-color: black;
+   color: whitesmoke; 
+}
+
+.firstTable{
+    border-style:solid;
+}
+.rrow{
+    border-bottom: solid 2px whitesmoke;
+}
